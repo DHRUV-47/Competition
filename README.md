@@ -16,9 +16,6 @@ Teams may use any of the libraries mentioned below
 #### Libraries-
 
 _will be updated soon_
-<!---
-dude add the libraries here
---->
 
 
 
@@ -37,8 +34,3 @@ The codes will be judged on the basis of Comments (Descriptive), ingenuity, Outp
 Team members must download an application called [CodeTogether](https://www.codetogether.com/download/) . 
 Downloading and Set-up instructions are avaliable [here](https://www.codetogether.com/) . 
 With this team members shall be able to build codes together 
-
-<!---
-add anything extra now, i think this sums it up pretty well
---->
-
