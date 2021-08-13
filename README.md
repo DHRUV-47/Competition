@@ -34,3 +34,6 @@ The codes will be judged on the basis of Comments (Descriptive), ingenuity, Outp
 Team members must download an application called [CodeTogether](https://www.codetogether.com/download/) . 
 Downloading and Set-up instructions are avaliable [here](https://www.codetogether.com/) . 
 With this team members shall be able to build codes together 
+
+
+If you require assistance or have any doubts, mail us on _protophasetech@gmail.com_
